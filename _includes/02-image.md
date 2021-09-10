@@ -1,0 +1,1 @@
+![这是一张图片](https://octodex.github.com/images/yaktocat.png)
